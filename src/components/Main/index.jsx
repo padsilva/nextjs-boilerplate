@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 import * as S from './styles'
 
 const Main = ({
@@ -17,5 +19,10 @@ const Main = ({
     />
   </S.Wrapper>
 )
+
+Main.propTypes = {
+  title: PropTypes.string,
+  description: PropTypes.string
+}
 
 export default Main
