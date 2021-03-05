@@ -1,21 +1,37 @@
 {
-  "name": "Advanced React - Boilerplate",
-  "short_name": "Advanced React",
+  "name": "Boilerplate JavaScript",
+  "short_name": "Boilerplate",
   "icons": [
     {
-      "src": "/img/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "/favicon/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
     },
     {
-      "src": "/img/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "/favicon/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/favicon/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/favicon/safari-pinned-tab.svg",
+      "type": "image/svg",
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
     }
   ],
-  "background_color": "#06092B",
-  "description": "Boilerplate using JavaScript, ReactJS, Next.js and Styled Components",
+  "background_color": "#ffffff",
+  "description": "A boilerplate to work with JavaScript, React, NextJS and Styled Components",
   "display": "fullscreen",
   "start_url": "/",
-  "theme_color": "#06092B"
+  "theme_color": "#ffffff"
 }
