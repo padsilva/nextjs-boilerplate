@@ -2,7 +2,7 @@
 
 A boilerplate to work with JavaScript, React, Next.js and Styled Components.
 
-## :warning: Getting Started
+## :rocket: Getting Started
 
 - Clone the project
 
