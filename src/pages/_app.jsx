@@ -35,7 +35,7 @@ const App = ({ Component, pageProps }) => (
       <meta name="theme-color" content="#ffffff" />
       <meta
         name="description"
-        content="A boilerplate to work with JavaScript, React, NextJS and Styled Components"
+        content="A boilerplate to work with JavaScript, React, Next.js and Styled Components."
       />
     </Head>
     <GlobalStyle />
