@@ -4,24 +4,24 @@ A boilerplate to work with JavaScript, React, Next.js and Styled Components.
 
 ## :rocket: Getting Started
 
-- Clone the project
+- Clone the project:
 
 ```bash
   git clone https://github.com/padsilva/nextjs-boilerplate/
 ```
 
-- Go to the project directory
+- Go to the project directory:
 
 ```bash
   cd nextjs-boilerplate
 ```
 
-- Install dependencies
+- Install dependencies:
 
 ```bash
 npm install
 # or
-yarn install
+yarn
 ```
 
 - Run the development server:
